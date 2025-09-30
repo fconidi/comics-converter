@@ -1,5 +1,6 @@
 # COMICS CONVERTER
 
+
 Comics converter for cbr, cbz, pdf
 
 
@@ -59,3 +60,6 @@ cd comics-converter/
 chmod +x comics_converter.sh
 ./comics_converter.sh
 </code>
+
+enjoy ;)
+
