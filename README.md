@@ -60,6 +60,3 @@ cd comics-converter/
 chmod +x comics_converter.sh
 ./comics_converter.sh
 </code>
-
-enjoy ;)
-
