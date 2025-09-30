@@ -1,6 +1,6 @@
-# COMICS CONVERTE
+# COMICS CONVERTER
 
-Comics converte for cbr, cbz, pdf
+Comics converter for cbr, cbz, pdf
 
 
 
@@ -50,3 +50,12 @@ Before running the script, you must ensure you have the following system tools i
     unrar OR 7z (p7zip): Needed to extract CBR (RAR) archives. The script checks for the presence of both and uses one.
 
 If any are missing, the script will notify the user via Zenity and exit.
+
+DOWNLOAD
+
+<code> 
+git clone https://github.com/fconidi/comics-converter.git
+cd comics-converter/
+chmod +x comics_converter.sh
+./comics_converter.sh
+</code>
