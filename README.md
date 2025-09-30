@@ -60,3 +60,6 @@ cd comics-converter/
 chmod +x comics_converter.sh
 ./comics_converter.sh
 </code>
+
+
+Before running the script, you must ensure you have the following system tools installed, as they are required by the script:
