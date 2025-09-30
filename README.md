@@ -53,3 +53,13 @@ Before running the script, you must ensure you have the following system tools i
 If any are missing, the script will notify the user via Zenity and exit.
 
 DOWNLOAD
+
+git clone https://github.com/fconidi/comics-converter.git
+
+cd comics-converter/
+
+chmod +x comics_converter.sh
+
+./comics_converter.sh
+
+enjoy ;)
