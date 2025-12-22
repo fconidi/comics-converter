@@ -62,4 +62,15 @@ chmod +x comics_converter.sh
 
 ./comics_converter.sh
 
+---
+---
+---
+[![Comics Converter](https://img.youtube.com/vi/VOaYek5CM6s/hqdefault.jpg)](https://www.youtube.com/watch?v=VOaYek5CM6s)
+
+[![YouTube](https://img.shields.io/badge/YouTube-Video-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=VOaYek5CM6s)
+**Comics Converter**
+---
+---
+---
+
 enjoy ;)
