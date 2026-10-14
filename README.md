@@ -4,12 +4,7 @@
 Comics converter for cbr, cbz, pdf
 
 
-
 <img width="1536" height="1024" alt="comics" src="https://github.com/user-attachments/assets/f34f265d-c92b-4ee2-81ce-6cab650937b8" />
-
-
-
-
 
 
 This Bash script, named Comics Converter, is designed to convert digital comic book files in PDF, CBZ (ZIP), and CBR (RAR) formats into unified PDF files, with the internal images converted to JPEG format. It uses common command-line tools and the Zenity GUI utility for user interaction and error/warning reporting.
